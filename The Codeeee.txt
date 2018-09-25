@@ -1,0 +1,174 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Home</title>
+<link href="pampered_styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+td img {display: block;}
+</style>
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+
+<body bgcolor="#4F8CA6" onLoad="MM_preloadImages('Nav/nav_r1_c1_s2.gif','Nav/nav_r3_c1_s2.gif','Nav/nav_r5_c1_s2.gif','Nav/nav_r7_c1_s2.gif','Nav/nav_r9_c1_s2.gif','Nav/nav_r11_c1_s2.gif')">
+
+<center>
+<table>
+  	<tr>
+	  <td colspan="2">
+		<table width="869" border="0">
+        <tr>
+        	<td colspan="2">
+        <div class="header"><img src="assets/Pampered_Pups_LOGO_3.png" alt="" width="857" height="258" usemap="#Home"/></div>
+        	</td>
+            </tr>
+         <tr>
+            <td width="708" height="41" class="subtitles">&quot;Where your dog waggles more and barks less!&quot; </span></td>
+            <td width="151" class="title"> <p class="subtitles"><span class="body" style="font-weight: normal; font-size: 12px;"> Call us at:<br>
+            </span><span class="body" style="font-weight: normal; font-size: 12px;"><span style="font-weight: bold">(888)-555-PAMP </span></span></p></td>
+	  	 </tr>
+  	</table>
+	<tr>
+		<td width="136" height="323" valign="top">
+			<div class="navigation">
+			  <table style="display: inline-table;" border="0" cellpadding="0" cellspacing="0" width="130">
+			    <!-- fwtable fwsrc="Navigation.fw.png" fwpage="Page 1" fwbase="nav" fwstyle="Dreamweaver" fwdocid = "2102365606" fwnested="0" -->
+			    <tr>
+			      <td><img src="Nav/spacer.gif" alt="" name="undefined_2" width="130" height="1" /></td>
+			      <td><img src="Nav/spacer.gif" alt="" name="undefined_2" width="1" height="1" /></td>
+		        </tr>
+			    <tr>
+			      <td><a href="index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('nav_r1_c1','','Nav/nav_r1_c1_s2.gif',1);"><img name="nav_r1_c1" src="Nav/nav_r1_c1.gif" width="130" height="40" id="nav_r1_c1" alt="" /></a></td>
+			      <td><img src="Nav/spacer.gif" alt="" name="undefined_2" width="1" height="40" /></td>
+		        </tr>
+			    <tr>
+			      <td><img name="nav_r2_c1" src="Nav/nav_r2_c1.gif" width="130" height="10" id="nav_r2_c1" alt="" /></td>
+			      <td><img src="Nav/spacer.gif" alt="" name="undefined_2" width="1" height="10" /></td>
+		        </tr>
+			    <tr>
+			      <td><a href="about_us.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('nav_r3_c1','','Nav/nav_r3_c1_s2.gif',1);"><img name="nav_r3_c1" src="Nav/nav_r3_c1.gif" width="130" height="40" id="nav_r3_c1" alt="" /></a></td>
+			      <td><img src="Nav/spacer.gif" alt="" name="undefined_2" width="1" height="40" /></td>
+		        </tr>
+			    <tr>
+			      <td><img name="nav_r4_c1" src="Nav/nav_r4_c1.gif" width="130" height="10" id="nav_r4_c1" alt="" /></td>
+			      <td><img src="Nav/spacer.gif" alt="" name="undefined_2" width="1" height="10" /></td>
+		        </tr>
+			    <tr>
+			      <td><a href="our_staff.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('nav_r5_c1','','Nav/nav_r5_c1_s2.gif',1);"><img name="nav_r5_c1" src="Nav/nav_r5_c1.gif" width="130" height="40" id="nav_r5_c1" alt="" /></a></td>
+			      <td><img src="Nav/spacer.gif" alt="" name="undefined_2" width="1" height="40" /></td>
+		        </tr>
+			    <tr>
+			      <td><img name="nav_r6_c1" src="Nav/nav_r6_c1.gif" width="130" height="10" id="nav_r6_c1" alt="" /></td>
+			      <td><img src="Nav/spacer.gif" alt="" name="undefined_2" width="1" height="10" /></td>
+		        </tr>
+			    <tr>
+			      <td><a href="clip-n-fluff.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('nav_r7_c1','','Nav/nav_r7_c1_s2.gif',1);"><img name="nav_r7_c1" src="Nav/nav_r7_c1.gif" width="130" height="40" id="nav_r7_c1" alt="" /></a></td>
+			      <td><img src="Nav/spacer.gif" alt="" name="undefined_2" width="1" height="40" /></td>
+		        </tr>
+			    <tr>
+			      <td><img name="nav_r8_c1" src="Nav/nav_r8_c1.gif" width="130" height="10" id="nav_r8_c1" alt="" /></td>
+			      <td><img src="Nav/spacer.gif" alt="" name="undefined_2" width="1" height="10" /></td>
+		        </tr>
+			    <tr>
+			      <td><a href="stay-n-play.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('nav_r9_c1','','Nav/nav_r9_c1_s2.gif',1);"><img name="nav_r9_c1" src="Nav/nav_r9_c1.gif" width="130" height="40" id="nav_r9_c1" alt="" /></a></td>
+			      <td><img src="Nav/spacer.gif" alt="" name="undefined_2" width="1" height="40" /></td>
+		        </tr>
+			    <tr>
+			      <td><img name="nav_r10_c1" src="Nav/nav_r10_c1.gif" width="130" height="10" id="nav_r10_c1" alt="" /></td>
+			      <td><img src="Nav/spacer.gif" alt="" name="undefined_2" width="1" height="10" /></td>
+		        </tr>
+			    <tr>
+			      <td><a href="bark-ery.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('nav_r11_c1','','Nav/nav_r11_c1_s2.gif',1);"><img name="nav_r11_c1" src="Nav/nav_r11_c1.gif" width="130" height="40" id="nav_r11_c1" alt="" /></a></td>
+			      <td><img src="Nav/spacer.gif" alt="" name="undefined_2" width="1" height="40" /></td>
+		        </tr>
+		      </table>
+            </div>		
+</td>
+		<td width="740" valign="top">
+			<div class="content">
+			  <p>Home is where the heart is.</p>
+	  		</div>
+</td>
+		<td width="1">&nbsp;</td>
+ 	</tr>
+	<tr>
+		<td height="21" colspan="2" valign="top" style="vertical-align: bottom">                
+			<div class="footer">
+			  <table width="877" border="0">
+		        <tbody>
+			       <tr>
+			         <td width="295"><p class="body">Contact Us-<br>
+			           E-mail: 
+feedback@pamperedpups.com<br>
+		             Phone: 888-555-PAMP<br>
+		             Fax: 888-555- PUPS
+			         </p></td>
+			         <td width="294"><p class="body"><br>
+			           Mail: <br>
+			           Pampered Pups, Inc.<br>
+			           408 Pickford Drive<br>
+			         Pembroke Piones, FL 33026
+                     </p></td>
+			         <td width="274" class="body"><p class="body">Copyright Notice:<br>
+		             &copy; 20XX. Pampered Pups, Inc.<br>
+		             All Rights Reserved.
+		             <br>
+			         </p></td>
+		           </tr>
+		         </tbody>
+		      </table>
+			</div>     	
+</tr>
+</table>
+</center>
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+About Us THings
+
+Some tasty sweets... Bark
+
+To Clip or to Fluff
+
+Things about our staff
+
+Are you staying and playing?
+
+
+
